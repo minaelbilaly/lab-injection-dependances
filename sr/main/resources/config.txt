@@ -1,0 +1,2 @@
+ma.tp.dao.DaoImpl
+ma.tp.metier.MetierImpl
